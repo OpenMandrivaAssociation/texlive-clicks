@@ -1,6 +1,6 @@
 Name:		texlive-clicks
 Version:	64602
-Release:	1
+Release:	2
 Summary:	Slide Deck Animation
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/clicks
