@@ -3,7 +3,7 @@ Version:	64602
 Release:	2
 Summary:	Slide Deck Animation
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/clicks
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/clicks
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/clicks.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/clicks.doc.r%{version}.tar.xz
